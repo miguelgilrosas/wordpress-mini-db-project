@@ -1,0 +1,13 @@
+{
+  "name": "miguelgilrosas/wordpress-mini-db-project",
+  "description": "A very minimal WordPress database access manager",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "WpMiniDb\\": "src"
+    }
+  },
+  "license": "MIT"
+}
